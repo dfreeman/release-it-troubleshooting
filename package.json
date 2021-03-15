@@ -1,6 +1,6 @@
 {
   "name": "root-project",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "repository": "https://github.com/dfreeman/release-it-troubleshooting",
   "private": true,
   "workspaces": [
