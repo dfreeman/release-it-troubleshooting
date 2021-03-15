@@ -1,0 +1,14 @@
+{
+  "name": "root-project",
+  "version": "0.1.0",
+  "repository": "https://github.com/dfreeman/release-it-troubleshooting",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "release-it": "^14.4.1",
+    "release-it-lerna-changelog": "^3.1.0",
+    "release-it-yarn-workspaces": "^2.0.0"
+  }
+}
